@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "pack_id": "dance-2026-09-30",
+  "drive_folder": "https://drive.google.com/drive/folders/1ED5xYioQyoIeoP0hdH8yDp6Lc1fZBr8o",
+  "data": {
+    "manifest": "https://drive.google.com/file/d/1VFcTl4xl9P2by3HnydU45ujqjsser11K/view",
+    "identity_lock": "https://drive.google.com/file/d/1rBRty6BIrCZWGaijHalKmlN6zVXolq24/view",
+    "camera_stage_lock": "https://drive.google.com/file/d/1XFgYYdvvJnHbJvZxZj1Ql-8xZ29oFz5H/view",
+    "key_pose_library": "https://drive.google.com/file/d/1R5ogC1DOlx6Sfwc_pBZ-8RLQ4MOZbYok/view",
+    "movement_timeline": "https://drive.google.com/file/d/1h7Hmdu5HMRUIV5Cp3UNdGv6dGaGauDlr/view",
+    "frame_index": "https://drive.google.com/file/d/1nSMQgKEdOBPstAzaCRd9duvpvO2Rioek/view",
+    "grok_render_prompts": "https://drive.google.com/file/d/11vu1esdj0a-22sZm_LGJI_xsQrponwRP/view",
+    "onion_skin_validation": "https://drive.google.com/file/d/1LlNhYXIUPvPX0FyV-VksRjINRVMNVOdm/view"
+  },
+  "images": {
+    "identity_closeup": "https://drive.google.com/file/d/1UgW_EGQo7k2Yc1ciDYw4qy8jNJ0sTR6F/view",
+    "identity_expression_grid": "https://drive.google.com/file/d/1w0nm50L3_IlTHxvRrYbGasuVyGGZiu58/view",
+    "wardrobe_body_reference": "https://drive.google.com/file/d/1kNFmWJnDZcwKhMJqDIuLBOp_Y8rKpT-7/view"
+  }
+}
