@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "pack_id": "REPLACE_ME",
+  "source_video_required_after_analysis": false,
+  "active_choreography": {
+    "start_seconds": 0,
+    "end_seconds": 0,
+    "duration_seconds": 0
+  },
+  "render": {
+    "fps": 6,
+    "frame_count": 0
+  },
+  "audio": {
+    "estimated_bpm": null
+  },
+  "key_pose_count": 0,
+  "identity_rule": "Movement/timing from source; appearance exclusively from target references."
+}
