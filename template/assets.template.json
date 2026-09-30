@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "pack_id": "REPLACE_ME",
+  "drive_folder": "REPLACE_WITH_DRIVE_FOLDER_URL",
+  "data": {
+    "manifest": "REPLACE_URL",
+    "identity_lock": "REPLACE_URL",
+    "camera_stage_lock": "REPLACE_URL",
+    "key_pose_library": "REPLACE_URL",
+    "movement_timeline": "REPLACE_URL",
+    "frame_index": "REPLACE_URL",
+    "grok_render_prompts": "REPLACE_URL",
+    "onion_skin_validation": "REPLACE_URL"
+  },
+  "images": {
+    "identity_closeup": "REPLACE_URL",
+    "identity_expression_grid": "REPLACE_URL",
+    "wardrobe_body_reference": "REPLACE_URL"
+  }
+}
